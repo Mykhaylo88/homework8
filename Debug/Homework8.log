@@ -1,0 +1,4 @@
+﻿  Exercise1.cpp
+d:\desktop\homework8\homework8\exercise1.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Homework8.vcxproj -> D:\Desktop\Homework8\Debug\Exercise1.exe
+  Homework8.vcxproj -> D:\Desktop\Homework8\Debug\Exercise1.pdb (Partial PDB)
